@@ -9,7 +9,7 @@ Key findings from the analysis conducted for Pewleet Hackard reveals:
 1. A total of 72,461 employees are expected to retire 
 2. The two biggest groups of retirees hold the titles of Senior Engineer (36% of retirees or 25,916 employees) and Senior Staff (34% of retirees or 24,926 employees)
 
-![retir_emp_names](https://user-images.githubusercontent.com/96188669/195454868-c1fc2aef-1ed6-416e-bd7f-b286d306a28b.png
+![retir_emp_names](https://user-images.githubusercontent.com/96188669/195454868-c1fc2aef-1ed6-416e-bd7f-b286d306a28b.png)
 
 3. A total of 15,49 employees are eligible to participate in the mentorship program
 4. Of those eligible for the mentorship program, 37% (579) are Staff, and 34% (529) are Senior Staff
